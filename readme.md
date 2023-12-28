@@ -2,6 +2,33 @@
 
 Bem-vindo ao repositório do curso de C#! Neste repositório, você encontrará códigos desenvolvidos durante o curso de C# que abrange diversos tópicos, desde conceitos básicos até temas mais avançados. Este curso visa fornecer uma compreensão sólida da linguagem de programação C# e suas aplicações práticas.
 
+## Índice
+
+1. [Introdução](#1-introdução)
+    - [Hello World](01-introducao/hello-world.cs)
+    - [Variáveis](01-introducao/variaveis.cs)
+    - ...
+
+2. [Controle de Fluxo](#2-controle-de-fluxo)
+    - [If-Else](02-controle-fluxo/if-else.cs)
+    - [Loops](02-controle-fluxo/loops.cs)
+    - ...
+
+3. [Estruturas de Dados](#3-estruturas-de-dados)
+    - [Arrays](03-estruturas-dados/arrays.cs)
+    - [Listas](03-estruturas-dados/listas.cs)
+    - ...
+
+4. [Programação Orientada a Objetos](#4-programação-orientada-a-objetos)
+    - [Classe](04-programacao-orientada-objetos/classe.cs)
+    - [Herança](04-programacao-orientada-objetos/heranca.cs)
+    - ...
+
+5. [Exemplos Práticos](#5-exemplos-praticos)
+    - [Projeto 1](05-exemplos-praticos/projeto-1/...)
+    - [Projeto 2](05-exemplos-praticos/projeto-2/...)
+    - ...
+
 ## Estrutura do Repositório
 
 O repositório está organizado da seguinte forma:
