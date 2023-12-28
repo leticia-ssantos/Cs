@@ -1,2 +1,2 @@
-Aulas cusro C#
+Aulas curso C#
 ==========================
