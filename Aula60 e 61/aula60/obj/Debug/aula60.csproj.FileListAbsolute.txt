@@ -1,0 +1,10 @@
+C:\Users\Letícia Santos\Desktop\C#\Aula60\aula60\bin\Debug\aula60.exe.config
+C:\Users\Letícia Santos\Desktop\C#\Aula60\aula60\bin\Debug\aula60.exe
+C:\Users\Letícia Santos\Desktop\C#\Aula60\aula60\bin\Debug\aula60.pdb
+C:\Users\Letícia Santos\Desktop\C#\Aula60\aula60\obj\Debug\aula60.csproj.AssemblyReference.cache
+C:\Users\Letícia Santos\Desktop\C#\Aula60\aula60\obj\Debug\aula60.telaPrincipal.resources
+C:\Users\Letícia Santos\Desktop\C#\Aula60\aula60\obj\Debug\aula60.Properties.Resources.resources
+C:\Users\Letícia Santos\Desktop\C#\Aula60\aula60\obj\Debug\aula60.csproj.GenerateResource.cache
+C:\Users\Letícia Santos\Desktop\C#\Aula60\aula60\obj\Debug\aula60.csproj.CoreCompileInputs.cache
+C:\Users\Letícia Santos\Desktop\C#\Aula60\aula60\obj\Debug\aula60.exe
+C:\Users\Letícia Santos\Desktop\C#\Aula60\aula60\obj\Debug\aula60.pdb
